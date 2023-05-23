@@ -2,15 +2,15 @@ name: mc-veo
 
 version_control:
 
-    - bundles/mc-veo:
+    - bundles/mc_veo:
         github: huangfeng95/bundles-mc-veo
         branch: $ROCK_BRANCH
 
-    - slam/mc-veo:
+    - slam/mc_veo:
         github: huangfeng95/slam-mc-veo
         branch: $MCVEO_BRANCH
 
-    - slam/orogen/mc-veo:
+    - slam/orogen/mc_veo:
         github: huangfeng95/slam-orogen-mc-veo
         branch: $MCVEO_BRANCH
 
