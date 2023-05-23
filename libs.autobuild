@@ -1,8 +1,8 @@
 # IMPORTANT: new packages must be added at the top of this file
 # They must NEVER be added to other files
 
-bundle_package 'bundles/mc_veo'
-cmake_package 'slam/mc_veo'
+bundle_package 'bundles/mc-veo'
+cmake_package 'slam/mc-veo'
 cmake_package 'tools/torch' do |pkg|
     def pkg.prepare
         super
