@@ -8,11 +8,11 @@ version_control:
 
     - slam/mc-veo:
         github: huangfeng95/slam-mc-veo
-        branch: $MC-VEO_BRANCH
+        branch: $MCVEO_BRANCH
 
     - slam/orogen/mc-veo:
         github: huangfeng95/slam-orogen-mc-veo
-        branch: $MC-VEO_BRANCH
+        branch: $MCVEO_BRANCH
 
     - tools/torch:
         type: archive
