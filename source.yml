@@ -3,7 +3,7 @@ name: mc-veo
 version_control:
 
     - bundles/mc-veo:
-        github: huangfeng95/bundles-efvo
+        github: huangfeng95/bundles-mcveo
         branch: $ROCK_BRANCH
 
     - slam/mc-veo:
